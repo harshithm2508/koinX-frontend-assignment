@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an assignment given by koinX for hiring frontend interns.
 
-Currently, two official plugins are available:
+You can find the assignment details in the following link : 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- https://koinx.notion.site/KoinX-Frontend-Intern-Assignment-8d58a764615d445087b666bf0f6daf4a
